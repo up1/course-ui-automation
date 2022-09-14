@@ -2,7 +2,7 @@
 * Selenium IDE
 * Robotframework + SeleniumLibrary
 
-## Selenium IDE + [Selenium runner](https://www.selenium.dev/selenium-ide/docs/en/introduction/command-line-runner)
+## [Selenium IDE](https://www.selenium.dev/selenium-ide/) + [Selenium runner](https://www.selenium.dev/selenium-ide/docs/en/introduction/command-line-runner)
 
 Run with google chrome
 ```
