@@ -2,7 +2,7 @@
 * Selenium IDE
 * Robotframework + SeleniumLibrary
 
-## Selenium IDE + Selenium runner
+## Selenium IDE + [Selenium runner](https://www.selenium.dev/selenium-ide/docs/en/introduction/command-line-runner)
 
 Run with google chrome
 ```
@@ -30,7 +30,7 @@ Run on Selenium Grid
 $selenium-side-runner --server http://localhost:4444/wd/hub -c "browserName=chrome"
 ```
 
-## Robotframework + SeleniumLibrary
+## [Robotframework](https://robotframework.org/) + SeleniumLibrary
 ```
 $robot
 
