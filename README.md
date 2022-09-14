@@ -37,7 +37,7 @@ Run on Selenium Grid
 $selenium-side-runner --server http://localhost:4444/wd/hub -c "browserName=chrome"
 ```
 
-## [Robotframework](https://robotframework.org/) + SeleniumLibrary
+## [Robotframework](https://robotframework.org/) + [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)
 ```
 $robot
 
