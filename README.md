@@ -44,6 +44,9 @@ $robot
 $robot file_name.robot
 ```
 
+## Demo
+* [Continuous testing with Jenkins](https://github.com/up1/demo-for-test)
+
 ## Mocking tools for API
 * https://wiremock.org/
 * http://www.mbtest.org/
