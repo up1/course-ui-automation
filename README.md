@@ -43,3 +43,12 @@ $robot
 
 $robot file_name.robot
 ```
+
+## Mocking tools for API
+* https://wiremock.org/
+* http://www.mbtest.org/
+* https://www.npmjs.com/package/json-server
+* https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/
+* https://docs.cypress.io/guides/guides/network-requests#Stubbing
+* https://github.com/mrak/stubby4node
+* https://github.com/azagniotov/stubby4j
