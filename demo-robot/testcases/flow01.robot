@@ -8,6 +8,10 @@ Flow sign up success
 	นาย 'A' 'B' เข้ามาทำการสมัครใหม่
 	signUpResult.ตรวจสอบผลสำเร็จ
 
+Flow sign up success
+	นาย 'X' 'Y' เข้ามาทำการสมัครใหม่
+	signUpResult.ตรวจสอบผลสำเร็จ
+
 *** Keywords ***
 นาย '${fname}' '${lname}' เข้ามาทำการสมัครใหม่
 	signUp.เข้ามายังหน้า signup

@@ -3,6 +3,9 @@
 	Open Browser   ${URL}   browser=chrome
 	Maximize Browser Window
 
+เปิดหน้า signup
+	Go To   ${URL}
+
 ตรวจสอบหน้าการ signup
 	Title Should Be   Sign up
 	Wait Until Element Is Visible   id:signup
