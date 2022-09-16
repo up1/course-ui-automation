@@ -1,0 +1,23 @@
+-  request:
+      url: /promotion/1
+      method: GET
+   response:
+    - status: 200
+      file: 1.json
+-  request:
+      url: /promotion/2
+      method: GET
+   response:
+    - status: 404
+-  request:
+      url: /promotion/3
+      method: GET
+   response:
+    - status: 500
+-  request:
+      url: /promotion/4
+      method: GET
+   response:
+    - status: 200
+      latency: 5000
+      file: 1.json
